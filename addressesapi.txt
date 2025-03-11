@@ -1,5 +1,7 @@
 127.0.0.1:1234#cfnat
 198.62.62.156:443#US
+103.160.204.59:443#HK
+198.62.62.4:443#HK
 japan.com
 www.udemy.com
 www.iakeys.com
@@ -36,8 +38,6 @@ craig.ns.cloudflare.com
 decker.ns.cloudflare.com
 damien.ns.cloudflare.com
 dylan.ns.cloudflare.com
-103.160.204.59:443#HK
-198.62.62.4:443#HK
 [2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]#IPV6
 [2606:4700:9b08:7ce1:8882:ba8c:2880:c619]#IPV6
 [2606:4700:9b08:dd59:154f:abf8:46b5:25bb]#IPV6
